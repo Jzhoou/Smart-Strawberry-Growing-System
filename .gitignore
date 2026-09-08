@@ -1,0 +1,11 @@
+build/
+.pio/
+.vscode/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.tmp
+*.bak
